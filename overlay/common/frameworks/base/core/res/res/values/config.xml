@@ -706,4 +706,7 @@
         <item>com.google.android.gms=.phenotype,.vision,.cast,.fitness,.multideice</item>
         <item>com.google.android.inputmethod.latin=flag_value.xml</item>
     </string-array>
+
+    <!-- Circle to search -->
+    <string name="config_defaultContextualSearchPackageName" translatable="false">com.google.android.googlequicksearchbox</string>
 </resources>
